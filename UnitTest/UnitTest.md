@@ -223,8 +223,6 @@ Karma 幫我們做的事情有下面幾項：
 
 ---
 
-##Jasmine :rocket:
-[Jasmine](UnitTest/Jasmine.md)
+:rocket: [Jasmine](/Jasmine.md)
 
-##Karma :rocket:
-[Karma](UnitTest/Karma.md)
+:rocket: [Karma](/Karma.md)
