@@ -223,6 +223,6 @@ Karma 幫我們做的事情有下面幾項：
 
 ---
 
-:rocket: [Jasmine](/Jasmine.md)
+:rocket: [Jasmine](Jasmine.md)
 
-:rocket: [Karma](/Karma.md)
+:rocket: [Karma](Karma.md)
